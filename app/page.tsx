@@ -95,32 +95,32 @@ export default function Home() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
   <div className="relative h-[400px]">
     <Image
-      src="/images/food8.png"
-      alt="NORD Restaurant 1"
+      src="/images/food8.PNG"
+      alt="Glöd Restaurant 1"
       fill
       className="object-cover"
     />
   </div>
   <div className="relative h-[400px]">
     <Image
-      src="/images/food2.png"
-      alt="NORD Restaurant 2"
+      src="/images/food2.PNG"
+      alt="Glöd Restaurant 2"
       fill
       className="object-cover"
     />
   </div>
   <div className="relative h-[400px]">
     <Image
-      src="/images/food3.png"
-      alt="NORD Restaurant 3"
+      src="/images/food3.PNG"
+      alt="Glöd Restaurant 3"
       fill
       className="object-cover"
     />
   </div>
   <div className="relative h-[400px]">
     <Image
-      src="/images/food4.png"
-      alt="NORD Restaurant 4"
+      src="/images/food4.PNG"
+      alt="Glöd Restaurant 4"
       fill
       className="object-cover"
     />

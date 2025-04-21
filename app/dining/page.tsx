@@ -33,7 +33,7 @@ export default function Dining() {
       <section className="section bg-zinc-950">
         <div className="container-custom grid md:grid-cols-2 gap-12 items-center">
           <div className="relative h-[600px]">
-            <Image src="/images/food2.png" alt="10 Course Menu" fill className="object-cover" />
+            <Image src="/images/food2.PNG" alt="10 Course Menu" fill className="object-cover" />
           </div>
           <div>
             <h2>10 Course Journey</h2>
