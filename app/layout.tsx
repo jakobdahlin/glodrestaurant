@@ -8,9 +8,8 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NORD | Exclusive Scandinavian Dining",
+  title: "Glöd | Exclusive Scandinavian Dining",
   description: "Experience exclusive Scandinavian cuisine in the heart of NYC",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
