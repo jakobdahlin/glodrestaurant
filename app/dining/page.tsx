@@ -30,7 +30,7 @@ export default function Dining() {
       </section>
 
       {/* 10 Course Menu */}
-      <section className="section bg-zinc-950">
+      <section className="section bg-black">
         <div className="container-custom grid md:grid-cols-2 gap-12 items-center">
           <div className="relative h-[600px]">
             <Image src="/images/food2.PNG" alt="10 Course Menu" fill className="object-cover" />
@@ -91,7 +91,7 @@ export default function Dining() {
       </section>
 
       {/* Dietary Restrictions */}
-      <section className="section bg-zinc-950">
+      <section className="section bg-black">
         <div className="container-custom max-w-4xl">
           <h2 className="text-center">Dietary Accommodations</h2>
           <p className="text-white/80 text-center mb-8">
